@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13658847432",
+    "project_id": "testremoteconfig-3c84a",
+    "storage_bucket": "testremoteconfig-3c84a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13658847432:android:5d39eb4d92a60e38d58dfd",
+        "android_client_info": {
+          "package_name": "com.topsecurity.remoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13658847432-qk9un1madrdq6g7c505grrp1nbmt602d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.topsecurity.remoteconfig",
+            "certificate_hash": "b0cfd5d86b67f00a10865228ca2c693ec1d54f36"
+          }
+        },
+        {
+          "client_id": "13658847432-isojkdcvpug747270kbliaa3os1vmvd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuQLjYIay1dN01-hg-8R3HSotC2o3zFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13658847432-isojkdcvpug747270kbliaa3os1vmvd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
